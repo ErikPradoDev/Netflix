@@ -7,7 +7,6 @@
 }
 
 .contentSize{
-    border: 1px solid aqua;
     display: flex;
     align-items: center;
     flex-direction: column;
